@@ -4,6 +4,7 @@ body {
 
 header {
     display: inline-flex;
+    align-items: flex-end;
     font-family: Merriweather, Verdana, Geneva, Tahoma, sans-serif;
 
 }
@@ -13,5 +14,5 @@ span {
 }
 
 h1 {
-    font: 22px;
+    font: 32px;
 }
