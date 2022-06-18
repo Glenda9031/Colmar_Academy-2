@@ -6,7 +6,10 @@ header {
     display: inline-flex;
     align-items: flex-end;
     font-family: Merriweather, Verdana, Geneva, Tahoma, sans-serif;
+}
 
+.header--img {
+    font: 30px;
 }
 
 span {
@@ -16,3 +19,9 @@ span {
 h1 {
     font: 32px;
 }
+
+p {
+    color: powderblue;
+    float: right;
+}
+
