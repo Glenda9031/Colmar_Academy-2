@@ -4,4 +4,14 @@ body {
 
 header {
     display: inline-flex;
+    font-family: Merriweather, Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+span {
+    color: powderblue;
+}
+
+h1 {
+    font: 22px;
 }
